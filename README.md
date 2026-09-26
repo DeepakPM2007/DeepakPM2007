@@ -77,28 +77,6 @@ Exploratory PyTorch pipelines built to analyze complex civic data sets and train
 
 **Tech Stack:** Python 3.10 · PyTorch · Scikit-Learn · NumPy  
 
----
-
-### 📈 GitHub Analytics & Engineering Velocity
-
-<div align="center">
-  <img src="assets/executive-summary.svg" alt="Executive Summary" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="assets/profile-3d-city.svg" alt="3D Contribution City" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="assets/skills-radar.svg" alt="Engineering Radar" width="48%" />
-  <img src="assets/commit-velocity.svg" alt="Commit Velocity" width="48%" />
-</div>
-
----
 <div align="center">
   <i>Committed to excellence in software engineering at VSB Engineering College, Karur.</i>
 </div>
