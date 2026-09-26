@@ -79,15 +79,23 @@ Exploratory PyTorch pipelines built to analyze complex civic data sets and train
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Analytics & Engineering Velocity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepakPM2007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Deepak's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakPM2007&theme=tokyonight&hide_border=true&background=0D1117" alt="Deepak's GitHub Streak" />
+  <img src="assets/executive-summary.svg" alt="Executive Summary" width="100%" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakPM2007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="assets/profile-3d-city.svg" alt="3D Contribution City" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/skills-radar.svg" alt="Engineering Radar" width="48%" />
+  <img src="assets/commit-velocity.svg" alt="Commit Velocity" width="48%" />
 </div>
 
 ---
