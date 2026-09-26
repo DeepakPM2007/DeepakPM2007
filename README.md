@@ -1,48 +1,83 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Deepak!&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-  
-  <h2 align="center">🚀 Full-Stack Developer | Machine Learning Enthusiast | Blockchain Explorer</h2>
 
-  <p align="center">
-    <i>Passionate about building scalable web applications, exploring AI/ML, and experimenting with decentralized technologies.</i>
-  </p>
+# Hi, I'm Deepak PM 👋
 
-  <p align="center">
-    <a href="https://github.com/DeepakPM2007">
-      <img src="https://img.shields.io/github/followers/DeepakPM2007?label=Followers&style=for-the-badge&color=00ff99" alt="GitHub followers" />
-    </a>
-  </p>
-</div>
+### Full Stack Developer | AI Application Architect
 
-<br>
-
-### 🛠️ Tech Stack & Skills
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00ff99&center=true&vCenter=true&width=650&lines=Software+Development+Engineer+(SDE)+Aspirant;Full+Stack+%26+Blockchain+Architect;AI+%26+Machine+Learning+Enthusiast;Top+Developer+at+VSB+Engineering+College">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00ff99&center=true&vCenter=true&width=650&lines=Software+Development+Engineer+(SDE)+Aspirant;Full+Stack+%26+Blockchain+Architect;AI+%26+Machine+Learning+Enthusiast;Top+Developer+at+VSB+Engineering+College" alt="Typing Animation" />
+</a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/🎓_Education-VSB_Engineering_College,_Karur-000000?style=for-the-badge&logo=academia&logoColor=white" alt="VSB Engineering College" />
+  <img src="https://img.shields.io/badge/📍_Location-Tamil_Nadu,_India-007ACC?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
+</div>
 
-<br>
+Engineering student building production-grade full-stack applications, local-first progressive web apps, and decentralized blockchain systems. 
 
-### 💻 Featured Projects
+I specialize in architecting high-reliability web ecosystems, Web3 smart contracts, real-time sync queues, and integrating artificial intelligence directly into the user experience.
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🤖 **[Ai-Habit-Tracker](https://github.com/DeepakPM2007/Ai-Habit-Tracker)** | An intelligent habit tracker application powered by AI. | `TypeScript`, `Web` |
-| 🗳️ **[Block-chain-E-votingSystem](https://github.com/DeepakPM2007/Block-chain-E-votingSystemV3)** | A decentralized, secure e-voting system using Blockchain technology. | `JavaScript`, `Blockchain` |
-| 🌿 **[Eco-Tourism](https://github.com/DeepakPM2007/Eco-Tourism)** | Platform promoting sustainable eco-tourism trails and adventures. | `JavaScript`, `Web` |
-| ❓ **[Web-Based-Quiz-Generator](https://github.com/DeepakPM2007/Web-Based-Quiz-Generator)** | Interactive and dynamic web-based quiz generation tool. | `JavaScript`, `HTML/CSS` |
-| 🧠 **[ML / Deep Learning](https://github.com/DeepakPM2007)** | Deep civic models and machine learning explorations. | `Python`, `PyTorch` |
+- 🎓 **Education:** Engineering Student — **VSB Engineering College, Karur**
+- 🎯 **Target Roles:** Software Development Engineer (SDE I), Full Stack Engineer, Blockchain Developer
+- 💼 **Core Competencies:** Data Structures & Algorithms, System Design, RESTful APIs, Web3/Solidity, React (PWA), PyTorch
+- 🌱 **Currently learning:** Deep Learning Architectures & Advanced System Design
+- 💬 **Ask me about:** JavaScript/TypeScript ecosystems, Python, and Decentralized Networks
 
-<br>
+---
+
+## 🏆 Achievements & Milestones
+
+- 🌟 **Top GitHub Profile** — Recognized as an active, top-tier contributor from **VSB Engineering College, Karur**.
+- 🚀 **Full-Stack Innovator** — Successfully architected and deployed complex Web3 and AI-driven applications.
+- *(Add your specific hackathon wins, club roles, or paper presentations here!)*
+
+---
+
+## 💻 Featured Production Projects & Developer Tools
+
+*Selected projects demonstrating full-stack engineering, real-world architecture, and measurable impact.*
+
+### ⚡ [LitSense AI](https://github.com/DeepakPM2007/Litsense-AI)
+**RAG-Augmented Semantic Recommendation Engine & Conversational AI**
+
+An intelligent book recommendation engine utilizing vector embeddings and local LLMs to generate progressive learning pathways and semantic searches.
+
+* 🧠 **Local LLM Inference:** Powered by `Llama-3.2-3B-Instruct` deployed locally via Hugging Face pipelines for conversational, context-aware recommendations.
+* 🔍 **Semantic "Vibe" Search:** Integrates ChromaDB as a vector store to execute complex semantic similarity searches using `all-MiniLM-L6-v2` dense embeddings.
+* 🎓 **Generative Curriculum Engine:** Programmatically synthesizes (Beginner to Advanced) learning pathways, dynamically generating study rationales for matched books.
+* ⚡ **High-Throughput Backend:** Engineered a robust Python API using FastAPI with a PostgreSQL metadata layer.
+
+**Tech Stack:** Python · FastAPI · ChromaDB (Vector Store) · Llama-3.2-3B · PostgreSQL · SentenceTransformers  
+🔗 [Source Repository](https://github.com/DeepakPM2007/Litsense-AI)
+
+---
+
+### 🗳️ [Decentralized E-Voting System V3](https://github.com/DeepakPM2007/Block-chain-E-votingSystemV3)
+**Web3 Immutable Ledger & Tamper-Proof Voting Smart Contracts**
+
+A high-security, blockchain-powered electronic voting architecture designed to eliminate election fraud through decentralized ledgers.
+
+* 🔐 **Cryptographic Integrity:** Leverages Ethereum smart contracts to ensure 100% immutable and verifiable ballot casting.
+* ⛓️ **Decentralized Node Consensus:** Votes are processed across a distributed network, preventing single points of failure or database tampering.
+* 🌐 **Web3 Integration:** Full-stack integration connecting browser-based wallets (MetaMask) directly to the blockchain state.
+
+**Tech Stack:** JavaScript · Solidity · Web3.js · Ethereum Smart Contracts  
+🔗 [Source Repository](https://github.com/DeepakPM2007/Block-chain-E-votingSystemV3)
+
+---
+
+### 🧠 Deep Civic ML Architecture
+**Predictive Data Modeling & Neural Networks**
+
+Exploratory PyTorch pipelines built to analyze complex civic data sets and train highly accurate predictive models.
+
+* 📈 **Tensor-based Training:** Developed local training loops and hyperparameter tuning using PyTorch (`deep_civic.py`).
+* 📦 **Model Serialization:** Exported optimized `.pth` state dictionaries for rapid inference and deployment integration.
+
+**Tech Stack:** Python 3.10 · PyTorch · Scikit-Learn · NumPy  
+
+---
 
 ### 📈 GitHub Stats
 
@@ -55,16 +90,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakPM2007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
-<br>
-
-### 🤝 Let's Connect!
-
-<p align="center">
-  <a href="https://github.com/DeepakPM2007"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <!-- Add your LinkedIn or Twitter links below! -->
-  <!-- <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
-</p>
-
+---
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <i>Committed to excellence in software engineering at VSB Engineering College, Karur.</i>
 </div>
