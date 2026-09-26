@@ -19,10 +19,10 @@
   </g>
 
   <!-- Area Fill -->
-  <path d="M 32 159 C 38.1,159.0 56.4,159.0 68.6,159.0 C 80.8,159.0 93.1,159.0 105.3,159.0 C 117.5,159.0 129.7,159.0 141.9,159.0 C 154.1,159.0 166.3,164.9 178.5,159.0 C 190.8,153.1 203.0,139.2 215.2,123.4 C 227.4,107.5 239.6,71.9 251.8,64.0 C 264.0,56.1 276.2,73.9 288.5,75.9 C 300.7,77.9 312.9,62.0 325.1,75.9 C 337.3,89.7 349.5,145.1 361.7,159.0 C 373.9,172.9 386.2,159.0 398.4,159.0 C 410.6,159.0 428.9,159.0 435.0,159.0 L 435 159 L 32 159 Z" fill="url(#velocity-grad)" />
+  <path d="M 32 159 C 38.1,159.0 56.4,159.0 68.6,159.0 C 80.8,159.0 93.1,159.0 105.3,159.0 C 117.5,159.0 129.7,159.0 141.9,159.0 C 154.1,159.0 166.3,164.9 178.5,159.0 C 190.8,153.1 203.0,139.2 215.2,123.4 C 227.4,107.5 239.6,71.9 251.8,64.0 C 264.0,56.1 276.2,75.9 288.5,75.9 C 300.7,75.9 312.9,50.1 325.1,64.0 C 337.3,77.9 349.5,143.2 361.7,159.0 C 373.9,174.8 386.2,159.0 398.4,159.0 C 410.6,159.0 428.9,159.0 435.0,159.0 L 435 159 L 32 159 Z" fill="url(#velocity-grad)" />
 
   <!-- Wave Stroke -->
-  <path d="M 32 159 C 38.1,159.0 56.4,159.0 68.6,159.0 C 80.8,159.0 93.1,159.0 105.3,159.0 C 117.5,159.0 129.7,159.0 141.9,159.0 C 154.1,159.0 166.3,164.9 178.5,159.0 C 190.8,153.1 203.0,139.2 215.2,123.4 C 227.4,107.5 239.6,71.9 251.8,64.0 C 264.0,56.1 276.2,73.9 288.5,75.9 C 300.7,77.9 312.9,62.0 325.1,75.9 C 337.3,89.7 349.5,145.1 361.7,159.0 C 373.9,172.9 386.2,159.0 398.4,159.0 C 410.6,159.0 428.9,159.0 435.0,159.0" fill="none" stroke="#7aa2f7" stroke-width="2.5" stroke-linecap="round" />
+  <path d="M 32 159 C 38.1,159.0 56.4,159.0 68.6,159.0 C 80.8,159.0 93.1,159.0 105.3,159.0 C 117.5,159.0 129.7,159.0 141.9,159.0 C 154.1,159.0 166.3,164.9 178.5,159.0 C 190.8,153.1 203.0,139.2 215.2,123.4 C 227.4,107.5 239.6,71.9 251.8,64.0 C 264.0,56.1 276.2,75.9 288.5,75.9 C 300.7,75.9 312.9,50.1 325.1,64.0 C 337.3,77.9 349.5,143.2 361.7,159.0 C 373.9,174.8 386.2,159.0 398.4,159.0 C 410.6,159.0 428.9,159.0 435.0,159.0" fill="none" stroke="#7aa2f7" stroke-width="2.5" stroke-linecap="round" />
 
   <!-- Markers and Labels -->
   <text x="32" y="177" text-anchor="middle" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Jan</text><text x="105.27272727272728" y="177" text-anchor="middle" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Mar</text><text x="178.54545454545456" y="177" text-anchor="middle" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">May</text>
@@ -35,8 +35,8 @@
         <circle cx="288.45454545454544" cy="75.875" r="3" fill="#7aa2f7" stroke="#131620" stroke-width="1.5">
           <title>Aug: 14 contributions</title>
         </circle><text x="325.0909090909091" y="177" text-anchor="middle" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Sep</text>
-        <circle cx="325.0909090909091" cy="75.875" r="3" fill="#7aa2f7" stroke="#131620" stroke-width="1.5">
-          <title>Sep: 14 contributions</title>
+        <circle cx="325.0909090909091" cy="64" r="3" fill="#7aa2f7" stroke="#131620" stroke-width="1.5">
+          <title>Sep: 16 contributions</title>
         </circle><text x="398.3636363636364" y="177" text-anchor="middle" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Nov</text><text x="435" y="177" text-anchor="middle" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Dec</text>
 
   <!-- Personal Branding Watermark -->
