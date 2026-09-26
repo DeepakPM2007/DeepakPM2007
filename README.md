@@ -30,7 +30,6 @@ I specialize in architecting high-reliability web ecosystems, Web3 smart contrac
 
 - 🌟 **Top GitHub Profile** — Recognized as an active, top-tier contributor from **VSB Engineering College, Karur**.
 - 🚀 **Full-Stack Innovator** — Successfully architected and deployed complex Web3 and AI-driven applications.
-- *(Add your specific hackathon wins, club roles, or paper presentations here!)*
 
 ---
 
