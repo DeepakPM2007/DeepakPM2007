@@ -102,57 +102,48 @@
 
 <!-- Language Breakdown Donut Chart -->
 <g transform="translate(40, 520)">
-  <g transform="translate(273, 0)">
-    <rect x="0" y="54.17" width="21.67" height="21.67" fill="#3572A5" class="stroke-bg" stroke-width="1px">
+  <circle cx="130" cy="130" r="94.61111111111111" fill="none" class="stroke-weak" stroke-opacity="0.25" stroke-width="44.777777777777786"></circle>
+  <g transform="translate(286, 0)">
+    <rect x="0" y="27.67" width="14.00" height="14.00" rx="3" fill="#3572A5" class="stroke-bg" stroke-width="1px">
       <animate attributeName="fill-opacity" values="0;0.2;1" dur="3s" repeatCount="1"></animate>
     </rect>
-    <text x="26.00" y="65.00" dominant-baseline="middle" font-size="21.67px" class="fill-fg">Python
+    <text x="21.00" y="34.67" dominant-baseline="middle" font-size="14.00px" font-weight="600" class="fill-fg">Python <tspan font-weight="500" class="fill-weak" font-size="12.60px">50%</tspan>
       <animate attributeName="fill-opacity" values="0;0.2;1" dur="3s" repeatCount="1"></animate>
     </text>
-    <rect x="0" y="86.67" width="21.67" height="21.67" fill="#f1e05a" class="stroke-bg" stroke-width="1px">
+    <rect x="0" y="71.00" width="14.00" height="14.00" rx="3" fill="#f1e05a" class="stroke-bg" stroke-width="1px">
       <animate attributeName="fill-opacity" values="0;0.4;1" dur="3s" repeatCount="1"></animate>
     </rect>
-    <text x="26.00" y="97.50" dominant-baseline="middle" font-size="21.67px" class="fill-fg">JavaScript
+    <text x="21.00" y="78.00" dominant-baseline="middle" font-size="14.00px" font-weight="600" class="fill-fg">JavaScript <tspan font-weight="500" class="fill-weak" font-size="12.60px">25%</tspan>
       <animate attributeName="fill-opacity" values="0;0.4;1" dur="3s" repeatCount="1"></animate>
     </text>
-    <rect x="0" y="119.17" width="21.67" height="21.67" fill="#3178c6" class="stroke-bg" stroke-width="1px">
+    <rect x="0" y="114.33" width="14.00" height="14.00" rx="3" fill="#3178c6" class="stroke-bg" stroke-width="1px">
       <animate attributeName="fill-opacity" values="0;0.6000000000000001;1" dur="3s" repeatCount="1"></animate>
     </rect>
-    <text x="26.00" y="130.00" dominant-baseline="middle" font-size="21.67px" class="fill-fg">TypeScript
+    <text x="21.00" y="121.33" dominant-baseline="middle" font-size="14.00px" font-weight="600" class="fill-fg">TypeScript <tspan font-weight="500" class="fill-weak" font-size="12.60px">17%</tspan>
       <animate attributeName="fill-opacity" values="0;0.6000000000000001;1" dur="3s" repeatCount="1"></animate>
     </text>
-    <rect x="0" y="151.67" width="21.67" height="21.67" fill="#e34c26" class="stroke-bg" stroke-width="1px">
+    <rect x="0" y="157.67" width="14.00" height="14.00" rx="3" fill="#e34c26" class="stroke-bg" stroke-width="1px">
       <animate attributeName="fill-opacity" values="0;0.8;1" dur="3s" repeatCount="1"></animate>
     </rect>
-    <text x="26.00" y="162.50" dominant-baseline="middle" font-size="21.67px" class="fill-fg">HTML
+    <text x="21.00" y="164.67" dominant-baseline="middle" font-size="14.00px" font-weight="600" class="fill-fg">HTML <tspan font-weight="500" class="fill-weak" font-size="12.60px">8%</tspan>
       <animate attributeName="fill-opacity" values="0;0.8;1" dur="3s" repeatCount="1"></animate>
-    </text>
-    <rect x="0" y="184.17" width="21.67" height="21.67" fill="#444444" class="stroke-bg" stroke-width="1px">
-      <animate attributeName="fill-opacity" values="0;1;1" dur="3s" repeatCount="1"></animate>
-    </rect>
-    <text x="26.00" y="195.00" dominant-baseline="middle" font-size="21.67px" class="fill-fg">other
-      <animate attributeName="fill-opacity" values="0;1;1" dur="3s" repeatCount="1"></animate>
     </text>
   </g>
   <g transform="translate(130, 130)">
-    <path d="M 0.000 -117.000 A 117 117 0 0 1 116.727 7.984 L 64.848 4.436 A 65 65 0 0 0 0.000 -65.000 Z" style="fill: #3572A5;" class="stroke-bg" stroke-width="2px">
-      <title>Python 6</title>
+    <path d="M 0.000 -117.000 A 117 117 0 0 1 0.000 117.000 L 0.000 72.222 A 72.22222222222221 72.22222222222221 0 0 0 0.000 -72.222 Z" style="fill: #3572A5;" class="stroke-bg" stroke-width="2px">
+      <title>Python: 50%</title>
       <animate attributeName="fill-opacity" values="0;0.5;1" dur="3s" repeatCount="1"></animate>
     </path>
-    <path d="M 116.727 7.984 A 117 117 0 0 1 73.837 90.758 L 41.021 50.421 A 65 65 0 0 0 64.848 4.436 Z" style="fill: #f1e05a;" class="stroke-bg" stroke-width="2px">
-      <title>JavaScript 3</title>
+    <path d="M 0.000 117.000 A 117 117 0 0 1 -117.000 0.000 L -72.222 0.000 A 72.22222222222221 72.22222222222221 0 0 0 0.000 72.222 Z" style="fill: #f1e05a;" class="stroke-bg" stroke-width="2px">
+      <title>JavaScript: 25%</title>
       <animate attributeName="fill-opacity" values="0;0.5;1" dur="3s" repeatCount="1"></animate>
     </path>
-    <path d="M 73.837 90.758 A 117 117 0 0 1 15.931 115.910 L 8.851 64.395 A 65 65 0 0 0 41.021 50.421 Z" style="fill: #3178c6;" class="stroke-bg" stroke-width="2px">
-      <title>TypeScript 2</title>
+    <path d="M -117.000 0.000 A 117 117 0 0 1 -58.500 -101.325 L -36.111 -62.546 A 72.22222222222221 72.22222222222221 0 0 0 -72.222 0.000 Z" style="fill: #3178c6;" class="stroke-bg" stroke-width="2px">
+      <title>TypeScript: 17%</title>
       <animate attributeName="fill-opacity" values="0;0.5;1" dur="3s" repeatCount="1"></animate>
     </path>
-    <path d="M 15.931 115.910 A 117 117 0 0 1 -15.931 115.910 L -8.851 64.395 A 65 65 0 0 0 8.851 64.395 Z" style="fill: #e34c26;" class="stroke-bg" stroke-width="2px">
-      <title>HTML 1</title>
-      <animate attributeName="fill-opacity" values="0;0.5;1" dur="3s" repeatCount="1"></animate>
-    </path>
-    <path d="M -15.931 115.910 A 117 117 0 0 1 -0.000 -117.000 L -0.000 -65.000 A 65 65 0 0 0 -8.851 64.395 Z" style="fill: #444444;" class="stroke-bg" stroke-width="2px">
-      <title>other 11</title>
+    <path d="M -58.500 -101.325 A 117 117 0 0 1 -0.000 -117.000 L -0.000 -72.222 A 72.22222222222221 72.22222222222221 0 0 0 -36.111 -62.546 Z" style="fill: #e34c26;" class="stroke-bg" stroke-width="2px">
+      <title>HTML: 8%</title>
       <animate attributeName="fill-opacity" values="0;0.5;1" dur="3s" repeatCount="1"></animate>
     </path>
   </g>
