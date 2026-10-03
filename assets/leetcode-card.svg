@@ -21,11 +21,11 @@
   <g transform="translate(24, 52)">
     <g transform="translate(0, 10)">
       <text class="stat-label">Total Solved:</text>
-      <text x="240" class="stat-val" fill="#ffa116">93</text>
+      <text x="240" class="stat-val" fill="#ffa116">94</text>
     </g>
     <g transform="translate(0, 36)">
       <text class="stat-label">Easy Problems:</text>
-      <text x="240" class="stat-val" fill="#00b8a3">61</text>
+      <text x="240" class="stat-val" fill="#00b8a3">62</text>
     </g>
     <g transform="translate(0, 62)">
       <text class="stat-label">Medium Problems:</text>
@@ -37,7 +37,7 @@
     </g>
     <g transform="translate(0, 114)">
       <text class="stat-label">Global Ranking:</text>
-      <text x="240" class="stat-val" fill="#9aa5ce">1,801,732</text>
+      <text x="240" class="stat-val" fill="#9aa5ce">1,773,488</text>
     </g>
   </g>
 
