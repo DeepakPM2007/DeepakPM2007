@@ -92,15 +92,62 @@
   </g>
   <g class="axis">
     <line x1="-29.67" y1="-9.64" x2="-148.36" y2="-48.21" class="stroke-weak" style="stroke-dasharray: 4 4; stroke-width: 1px;"></line>
-    <text x="-185.46" y="-56.40" style="font-size: 20.80px;" text-anchor="middle" dominant-baseline="middle" class="fill-fg">Repo<title>29</title></text>
+    <text x="-185.46" y="-56.40" style="font-size: 20.80px;" text-anchor="middle" dominant-baseline="middle" class="fill-fg">Repo<title>16</title></text>
   </g>
-  <polygon class="radar" points="0.00,-63.69 23.74,-7.71 18.34,25.24 -14.67,20.19 -73.07,-23.74">
-    <animate attributeName="points" values="0.00,-24.96 23.74,-7.71 14.67,20.19 -14.67,20.19 -23.74,-7.71;0.00,-63.69 23.74,-7.71 18.34,25.24 -14.67,20.19 -73.07,-23.74" dur="3s" repeatCount="1"></animate>
+  <polygon class="radar" points="0.00,-63.69 23.74,-7.71 18.34,25.24 -14.67,20.19 -65.40,-21.25">
+    <animate attributeName="points" values="0.00,-24.96 23.74,-7.71 14.67,20.19 -14.67,20.19 -23.74,-7.71;0.00,-63.69 23.74,-7.71 18.34,25.24 -14.67,20.19 -65.40,-21.25" dur="3s" repeatCount="1"></animate>
   </polygon>
 </g>
 
 
 <!-- Language Breakdown Donut Chart -->
+<g transform="translate(40, 520)">
+  <circle cx="130" cy="130" r="94.61111111111111" fill="none" class="stroke-weak" stroke-opacity="0.25" stroke-width="44.777777777777786"></circle>
+  <g transform="translate(286, 0)">
+    <rect x="0" y="27.67" width="14.00" height="14.00" rx="3" fill="#3572A5" class="stroke-bg" stroke-width="1px">
+      <animate attributeName="fill-opacity" values="0;0.2;1" dur="3s" repeatCount="1"></animate>
+    </rect>
+    <text x="21.00" y="34.67" dominant-baseline="middle" font-size="14.00px" font-weight="600" class="fill-fg">Python <tspan font-weight="500" class="fill-weak" font-size="12.60px">50%</tspan>
+      <animate attributeName="fill-opacity" values="0;0.2;1" dur="3s" repeatCount="1"></animate>
+    </text>
+    <rect x="0" y="71.00" width="14.00" height="14.00" rx="3" fill="#f1e05a" class="stroke-bg" stroke-width="1px">
+      <animate attributeName="fill-opacity" values="0;0.4;1" dur="3s" repeatCount="1"></animate>
+    </rect>
+    <text x="21.00" y="78.00" dominant-baseline="middle" font-size="14.00px" font-weight="600" class="fill-fg">JavaScript <tspan font-weight="500" class="fill-weak" font-size="12.60px">25%</tspan>
+      <animate attributeName="fill-opacity" values="0;0.4;1" dur="3s" repeatCount="1"></animate>
+    </text>
+    <rect x="0" y="114.33" width="14.00" height="14.00" rx="3" fill="#3178c6" class="stroke-bg" stroke-width="1px">
+      <animate attributeName="fill-opacity" values="0;0.6000000000000001;1" dur="3s" repeatCount="1"></animate>
+    </rect>
+    <text x="21.00" y="121.33" dominant-baseline="middle" font-size="14.00px" font-weight="600" class="fill-fg">TypeScript <tspan font-weight="500" class="fill-weak" font-size="12.60px">17%</tspan>
+      <animate attributeName="fill-opacity" values="0;0.6000000000000001;1" dur="3s" repeatCount="1"></animate>
+    </text>
+    <rect x="0" y="157.67" width="14.00" height="14.00" rx="3" fill="#e34c26" class="stroke-bg" stroke-width="1px">
+      <animate attributeName="fill-opacity" values="0;0.8;1" dur="3s" repeatCount="1"></animate>
+    </rect>
+    <text x="21.00" y="164.67" dominant-baseline="middle" font-size="14.00px" font-weight="600" class="fill-fg">HTML <tspan font-weight="500" class="fill-weak" font-size="12.60px">8%</tspan>
+      <animate attributeName="fill-opacity" values="0;0.8;1" dur="3s" repeatCount="1"></animate>
+    </text>
+  </g>
+  <g transform="translate(130, 130)">
+    <path d="M 0.000 -117.000 A 117 117 0 0 1 0.000 117.000 L 0.000 72.222 A 72.22222222222221 72.22222222222221 0 0 0 0.000 -72.222 Z" style="fill: #3572A5;" class="stroke-bg" stroke-width="2px">
+      <title>Python: 50%</title>
+      <animate attributeName="fill-opacity" values="0;0.5;1" dur="3s" repeatCount="1"></animate>
+    </path>
+    <path d="M 0.000 117.000 A 117 117 0 0 1 -117.000 0.000 L -72.222 0.000 A 72.22222222222221 72.22222222222221 0 0 0 0.000 72.222 Z" style="fill: #f1e05a;" class="stroke-bg" stroke-width="2px">
+      <title>JavaScript: 25%</title>
+      <animate attributeName="fill-opacity" values="0;0.5;1" dur="3s" repeatCount="1"></animate>
+    </path>
+    <path d="M -117.000 0.000 A 117 117 0 0 1 -58.500 -101.325 L -36.111 -62.546 A 72.22222222222221 72.22222222222221 0 0 0 -72.222 0.000 Z" style="fill: #3178c6;" class="stroke-bg" stroke-width="2px">
+      <title>TypeScript: 17%</title>
+      <animate attributeName="fill-opacity" values="0;0.5;1" dur="3s" repeatCount="1"></animate>
+    </path>
+    <path d="M -58.500 -101.325 A 117 117 0 0 1 -0.000 -117.000 L -0.000 -72.222 A 72.22222222222221 72.22222222222221 0 0 0 -36.111 -62.546 Z" style="fill: #e34c26;" class="stroke-bg" stroke-width="2px">
+      <title>HTML: 8%</title>
+      <animate attributeName="fill-opacity" values="0;0.5;1" dur="3s" repeatCount="1"></animate>
+    </path>
+  </g>
+</g>
 
 
 <!-- Telemetry & Metrics Summary -->
