@@ -9,24 +9,9 @@
   </g>
 
   
-      <g transform="translate(24, 50)">
-        <text x="0" y="12" font-size="12">⚡</text>
-        <text x="22" y="12" fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">
-          Pushed 1 commit to <tspan fill="#00f0ff" font-weight="600">DeepakPM2007</tspan>
-        </text>
-        <text x="419" y="12" text-anchor="end" fill="#9aa5ce" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
-          30d ago
-        </text>
-      </g>
-      <g transform="translate(24, 76)">
-        <text x="0" y="12" font-size="12">📦</text>
-        <text x="22" y="12" fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">
-          Created branch in <tspan fill="#50fa7b" font-weight="600">Litsense-AI</tspan>
-        </text>
-        <text x="419" y="12" text-anchor="end" fill="#9aa5ce" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
-          30d ago
-        </text>
-      </g>
+      <text x="233.5" y="110" text-anchor="middle" fill="#9aa5ce" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13">
+        No recent public events found.
+      </text>
 
   <!-- Personal Branding Watermark -->
   <a href="https://github.com/Tharun4743/github-profile-visualizer" target="_blank">
