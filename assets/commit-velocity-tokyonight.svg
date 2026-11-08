@@ -30,16 +30,16 @@
   <!-- Markers and Labels -->
   <text x="36.0" y="177" text-anchor="middle" fill="#9aa5ce" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">Dec</text><text x="107.8" y="177" text-anchor="middle" fill="#9aa5ce" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">Feb</text><text x="179.6" y="177" text-anchor="middle" fill="#9aa5ce" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">Apr</text><text x="251.5" y="177" text-anchor="middle" fill="#9aa5ce" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">Jun</text>
         <circle cx="251.5" cy="123.9" r="3.5" fill="#7aa2f7" stroke="#1f2335" stroke-width="1.5">
-          <title>Jun: 6 contributions</title>
+          <title>Jun: 3 contributions</title>
         </circle>
         <circle cx="287.4" cy="72.0" r="3.5" fill="#7aa2f7" stroke="#1f2335" stroke-width="1.5">
-          <title>Jul: 16 contributions</title>
+          <title>Jul: 8 contributions</title>
         </circle><text x="323.3" y="177" text-anchor="middle" fill="#9aa5ce" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">Aug</text>
         <circle cx="323.3" cy="82.4" r="3.5" fill="#7aa2f7" stroke="#1f2335" stroke-width="1.5">
-          <title>Aug: 14 contributions</title>
+          <title>Aug: 7 contributions</title>
         </circle>
         <circle cx="359.2" cy="103.1" r="3.5" fill="#7aa2f7" stroke="#1f2335" stroke-width="1.5">
-          <title>Sep: 10 contributions</title>
+          <title>Sep: 5 contributions</title>
         </circle><text x="395.1" y="177" text-anchor="middle" fill="#9aa5ce" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">Oct</text><text x="431.0" y="177" text-anchor="middle" fill="#9aa5ce" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">Nov</text>
 
   <!-- Personal Branding Watermark -->
