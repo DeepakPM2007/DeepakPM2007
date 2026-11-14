@@ -407,6 +407,6 @@
     <rect class="day level-0" width="10" height="10" x="678" y="57.5" rx="2" ry="2" fill="#161b22" data-date="2026-11-11" data-count="0"><title>0 contributions on 2026-11-11</title></rect>
     <rect class="day level-0" width="10" height="10" x="678" y="70" rx="2" ry="2" fill="#161b22" data-date="2026-11-12" data-count="0"><title>0 contributions on 2026-11-12</title></rect>
     <rect class="day level-0" width="10" height="10" x="678" y="82.5" rx="2" ry="2" fill="#161b22" data-date="2026-11-13" data-count="0"><title>0 contributions on 2026-11-13</title></rect>
-    <rect class="day level-0" width="10" height="10" x="678" y="95" rx="2" ry="2" fill="#161b22" data-date="2026-11-14" data-count="0"><title>0 contributions on 2026-11-14</title></rect>
+    <rect class="day level-1" width="10" height="10" x="678" y="95" rx="2" ry="2" fill="rgba(122, 162, 247, 0.45)" data-date="2026-11-14" data-count="1"><title>1 contribution on 2026-11-14</title></rect>
   </g>
 </svg>
